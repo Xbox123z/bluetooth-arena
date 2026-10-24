@@ -1,0 +1,23 @@
+# Rust
+/target/
+*.rs.bk
+*.swp
+
+# Node / npm
+/node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# Android / Gradle
+.gradle/
+/build/
+/app/build/
+/local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Reports / logs
+report.json
+*.log
+.env
